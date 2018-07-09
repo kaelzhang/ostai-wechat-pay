@@ -4,3 +4,5 @@ node_modules
 example
 *.p12
 *.pem
+
+package-lock.json
