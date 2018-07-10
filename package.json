@@ -22,6 +22,8 @@
   "homepage": "https://github.com/kaelzhang/ostai-wechat-pay",
   "dependencies": {
     "md5": "^2.0.0",
+    "nonce-str": "^1.0.1",
+    "query-string": "^6.1.0",
     "request": "^2.45.0",
     "sha1": "^1.1.0",
     "underscore": "^1.7.0",
