@@ -1,6 +1,6 @@
 {
   "name": "@ostai/wechat-pay",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "wechat payment api for document v3.3.5",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   "homepage": "https://github.com/kaelzhang/ostai-wechat-pay",
   "dependencies": {
     "nonce-str": "^1.0.1",
-    "query-string": "^6.1.0",
     "request": "^2.45.0",
     "xml2js": "^0.4.4"
   }
